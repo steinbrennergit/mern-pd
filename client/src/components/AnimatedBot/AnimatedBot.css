@@ -1,0 +1,47 @@
+.pokedex-btm {
+    /* border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; */
+    border-top: 3px solid black;
+}
+
+.pokemon-btm-exit-done {
+    position: fixed;
+    bottom: -3px;
+}
+
+.pokemon-btm-exit-active {
+    transform: translate(0, 20%)
+}
+
+.pokedex-btm-exit {
+    transform: translate(0, 40%)
+}
+
+.pokedex-btm-enter-active {
+    transform: translate(0, 40%)
+}
+
+.pokedex-btm-enter {
+    position: static;
+}
+
+#blueCircle {
+    float: right;
+    border-radius: 50%;
+    height: 60%;
+    width: 30%;
+    background: white;
+    box-shadow: 0 0 0 5px black, 0 0 0 5px black, 0 0 0 5px silver;
+    position: relative;
+    top: -35%;
+    left: -35%;
+}
+
+#halfCircleBottom {
+    background: white;
+    border-bottom-left-radius: 110px;  /* 100px of height + 10px of border */
+    border-bottom-right-radius: 110px; /* 100px of height + 10px of border */
+    border-top: 0;
+    position: relative;
+    top: 0;
+}

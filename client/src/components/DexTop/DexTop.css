@@ -1,0 +1,23 @@
+.halfCircle {
+    width: 100px;
+    height: 50px;
+    border: 10px solid black;
+    margin: auto;
+}
+
+#halfCircleTop {
+    background: red;
+    border-top-left-radius: 110px;  /* 100px of height + 10px of border */
+    border-top-right-radius: 110px; /* 100px of height + 10px of border */
+    border-bottom: 0;
+    position: relative;
+    bottom: -30%;
+}
+
+.pokedex-top {
+    /* border-top-left-radius: 15px;
+    border-top-right-radius: 15px; */
+    border-bottom: 3px solid black;
+    position: fixed;
+    top: -3px;
+}

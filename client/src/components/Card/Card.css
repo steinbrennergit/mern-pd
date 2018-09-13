@@ -1,0 +1,61 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.detail-img {
+    max-width: 30%;
+    padding-bottom: 1.1%;
+    color: white;
+    display: inline;
+    border-top-style: double;
+    border-left-style: double;
+    border-bottom-style: double;
+}
+
+.info {
+    padding: 0 0 1% 1%;
+    font-size: 30pt;
+    font-family: Ultra;
+    list-style-type: none;
+    border-left-style: double;
+    border-bottom-style: double;
+    border-right-style: double;
+    color: white;
+    margin-left: 30%;
+}
+
+.info-top {
+    border-top-style: double;
+}
+
+.card {
+    margin: 0 1%;
+    padding: 0.5%;
+    width: 98%;
+    background-color: #003300;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    background: linear-gradient(to bottom, #307bfb 0%, #0530e5 80%);	
+    background: -webkit-linear-gradient(to bottom, #307bfb 0%, #0530e5 80%);
+    background: -moz-linear-gradient(to bottom, #307bfb 0%, #0530e5 80%);
+    background: -o-linear-gradient(to bottom, #307bfb 0%, #0530e5 80%);
+    box-shadow: -1px 2px #001c91;
+    -webkit-box-shadow: -1px 2px #001c91;
+    -moz-box-shadow: -1px 2px #001c91;
+    -o-box-shadow: -1px 2px #001c91;
+}
+
+.spcInfo{
+    font-size: 13pt;
+    font-family: Ultra;
+    list-style-type: none;
+    border-left-style: double;
+    padding: 2%;
+    width: 20.9%;
+    margin: auto;
+    color: azure;
+    /* float: right; */
+}

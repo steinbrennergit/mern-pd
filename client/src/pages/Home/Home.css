@@ -1,0 +1,24 @@
+#display, #root, body {
+    position: relative;
+    z-index: -4;
+}
+
+#display {
+    max-height: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.pokedex {
+    height: 75px;
+    width: 100%;
+    max-width: 960px;
+    background: #efc5ca; /* Old browsers */
+    background: #f57584; /* Old browsers */
+    background: -moz-linear-gradient(top, #f57584 0%, #df0f27 9%, #b20a1e 93%, #b20a1e 93%, #f9455a 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f57584 0%,#df0f27 9%,#b20a1e 93%,#b20a1e 93%,#f9455a 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f57584 0%,#df0f27 9%,#b20a1e 93%,#b20a1e 93%,#f9455a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f57584', endColorstr='#f9455a',GradientType=0 ); /* IE6-9 */
+}
