@@ -1,4 +1,4 @@
-# MERN-PD
+# MERN-Pokedex
 
 This is a project in continued development. Currently:
 * Browse the first 151 Pokemon
