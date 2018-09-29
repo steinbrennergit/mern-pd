@@ -1,6 +1,8 @@
 # MERN-Pokedex
 
-This is a project in continued development. Currently:
+This is a project in continued development. You can find it hosted at: https://mern-pd.herokuapp.com/
+
+Currently:
 * Browse the first 151 Pokemon
 * Select/click any of the Pokemon to view additional details (currently minimal)
 * Select/click on an 'open' Pokemon to close it
