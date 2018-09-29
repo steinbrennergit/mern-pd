@@ -1,5 +1,4 @@
 # MERN-Pokedex
-
 This is a project in continued development. You can find it hosted at: https://mern-pd.herokuapp.com/
 
 Currently:
