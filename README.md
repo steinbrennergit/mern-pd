@@ -9,3 +9,6 @@ Future:
 * User authentication
 * Save favorite Pokemon for easy retrieval later
 * Animations
+
+Known issues:
+* CSS formatting of the 'additional details' is not yet mobile-responsive
